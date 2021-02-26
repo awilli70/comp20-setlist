@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="styles.css" type="text/css"?>
+<SetList>
+    <CoverBandName>The Cover-Up</CoverBandName>
+    <SetListTitle>2000's Revival Setlist</SetListTitle>
+    <Song>
+        <Artist>Daft Punk</Artist>
+        <Title>One More Time</Title>
+        <Genre>Dance</Genre>
+        <Year>2000</Year>
+    </Song>
+    <Song>
+        <Artist>Weezer</Artist>
+        <Title>Island in the Sun</Title>
+        <Genre>Rock</Genre>
+        <Year>2001</Year>
+    </Song>
+    <Song>
+        <Artist>Maroon 5</Artist>
+        <Title>Sunday Morning</Title>
+        <Genre>Pop</Genre>
+        <Year>2002</Year>
+    </Song>
+    <Song>
+        <Artist>R.E.M</Artist>
+        <Title>Losing My Religion</Title>
+        <Genre>Rock</Genre>
+        <Year>2003</Year>
+    </Song>
+    <Song>
+        <Artist>Franz Ferdinand</Artist>
+        <Title>Take Me Out</Title>
+        <Genre>Pop</Genre>
+        <Year>2004</Year>
+    </Song>
+    <Song>
+        <Artist>Gorillaz</Artist>
+        <Title>Feel Good Inc</Title>
+        <Genre>Alternative</Genre>
+        <Year>2005</Year>
+    </Song>
+    <Song>
+        <Artist>Gnarls Barkley</Artist>
+        <Title>Crazy</Title>
+        <Genre>Alternative</Genre>
+        <Year>2006</Year>
+    </Song>
+    <Song>
+        <Artist>MGMT</Artist>
+        <Title>Time to Pretend</Title>
+        <Genre>Alternative</Genre>
+        <Year>2007</Year>
+    </Song>
+    <Song>
+        <Artist>Cage the Elephant</Artist>
+        <Title>Ain't No Rest for the Wicked</Title>
+        <Genre>Alternative</Genre>
+        <Year>2008</Year>
+    </Song>
+    <Song>
+        <Artist>Owl City</Artist>
+        <Title>Fireflies</Title>
+        <Genre>Electronic</Genre>
+        <Year>2009</Year>
+    </Song>
+</SetList>

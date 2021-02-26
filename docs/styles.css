@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=RocknRoll+One');
+
+@media (prefers-color-scheme: dark) {
+    SetList {
+        font-family: RocknRoll One;
+        display: block;
+        margin: 1em 10%;
+        background-color: #282828;
+        color: #ccc;
+    }
+}
+@media (prefers-color-scheme: light) {
+    SetList {
+        font-family: RocknRoll One;
+        display: block;
+        margin: 1em 10%;
+    }
+}
+CoverBandName {
+    font-size: 3em;
+    display: block;
+    margin-bottom: .2em;
+    text-align: center;
+}
+SetListTitle {
+    font-size: 1.5em;
+    display: block;
+    border-bottom: 5px solid #b16286;
+    margin-bottom: .5em;
+    text-align: center;
+}
+Song {
+    display: grid;
+    grid: auto auto / 50% auto;
+    margin-bottom: .6em;
+    border-left: 6px solid #d3869b;
+    border-bottom: 6px solid #d3869b;
+    border-radius: 6px;
+    background-color: #dfb5c0;
+    color: #111
+}
+Title {
+    grid-column: 1/2;
+    grid-row: 1/2;
+    font-size: 1.5em;
+    align-content: left;
+    margin: .5em 0 .1em .2em;
+}
+Artist {
+    font-size: 1.2em;
+    grid-column: 1/2;
+    grid-row: 2/3;
+    margin: 0 .5em .5em .2em;
+}
+Artist::before {
+    content: "Artist: "
+}
+Genre {
+    grid-column: 2/3;
+    grid-row: 1/2;
+    font-size: 1.2em;
+    align-self: flex-end;
+    padding-bottom: .2em;
+    padding-top: .2em;
+}
+Year::before {
+    content: "Released: "
+}
+Year {
+    grid-column: 2/3;
+    grid-row: 2/3;
+    padding-top: .2em;
+    padding-left: .2em;
+    margin-bottom: .2em;
+}
+Year, Genre  {
+    border-left: 4px solid #d3869b;
+    padding-left: .3em;
+}
+
+
